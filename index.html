@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Praxis Building Group, LLC | Michigan General Contractor</title>
+  <meta name="description" content="Praxis Building Group provides remodeling, renovations, roofing, additions, general contracting and new construction throughout Southeast Michigan.">
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --black: #17191a;
+      --dark: #222526;
+      --gold: #b8965a;
+      --white: #ffffff;
+      --off-white: #f5f3ee;
+      --gray: #b7b7b7;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: var(--black);
+      color: var(--white);
+      min-height: 100vh;
+    }
+
+    header {
+      height: 82px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 7%;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 10;
+    }
+
+    .brand {
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: 5px;
+    }
+
+    .brand span {
+      color: var(--gold);
+    }
+
+    .phone {
+      color: var(--white);
+      text-decoration: none;
+      font-size: 15px;
+      letter-spacing: 1px;
+    }
+
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      padding: 130px 7% 70px;
+      background:
+        linear-gradient(90deg, rgba(15,17,18,.98) 0%, rgba(15,17,18,.90) 45%, rgba(15,17,18,.55) 100%),
+        linear-gradient(135deg, #1d2021, #34383a);
+    }
+
+    .hero-content {
+      max-width: 850px;
+    }
+
+    .eyebrow {
+      color: var(--gold);
+      text-transform: uppercase;
+      letter-spacing: 4px;
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 25px;
+    }
+
+    h1 {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(52px, 7vw, 92px);
+      line-height: .98;
+      font-weight: 400;
+      letter-spacing: -2px;
+      margin-bottom: 30px;
+    }
+
+    h1 span {
+      color: var(--gold);
+    }
+
+    .intro {
+      max-width: 700px;
+      color: #d4d4d4;
+      font-size: 19px;
+      line-height: 1.7;
+      margin-bottom: 38px;
+    }
+
+    .buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 17px 27px;
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      font-size: 12px;
+      font-weight: 700;
+      transition: .2s ease;
+    }
+
+    .btn-primary {
+      background: var(--gold);
+      color: var(--black);
+    }
+
+    .btn-primary:hover {
+      background: #c9a76c;
+    }
+
+    .btn-secondary {
+      border: 1px solid rgba(255,255,255,.4);
+      color: var(--white);
+    }
+
+    .btn-secondary:hover {
+      border-color: var(--gold);
+      color: var(--gold);
+    }
+
+    .services {
+      background: var(--off-white);
+      color: var(--black);
+      padding: 60px 7%;
+    }
+
+    .services-label {
+      color: #777;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      font-size: 11px;
+      margin-bottom: 25px;
+    }
+
+    .service-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 30px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 21px;
+    }
+
+    .service-list span::after {
+      content: " /";
+      color: var(--gold);
+      margin-left: 20px;
+    }
+
+    footer {
+      padding: 35px 7%;
+      background: #111314;
+      display: flex;
+      justify-content: space-between;
+      gap: 30px;
+      flex-wrap: wrap;
+      color: #999;
+      font-size: 13px;
+      line-height: 1.8;
+    }
+
+    footer strong {
+      color: white;
+    }
+
+    footer a {
+      color: #bbb;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--gold);
+    }
+
+    @media (max-width: 700px) {
+      header {
+        padding: 0 5%;
+      }
+
+      .brand {
+        font-size: 18px;
+        letter-spacing: 3px;
+      }
+
+      .phone {
+        font-size: 12px;
+      }
+
+      .hero {
+        padding-left: 5%;
+        padding-right: 5%;
+      }
+
+      h1 {
+        letter-spacing: -1px;
+      }
+
+      .intro {
+        font-size: 17px;
+      }
+
+      .services {
+        padding-left: 5%;
+        padding-right: 5%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <div class="brand">
+    PRAX<span>IS</span>
+  </div>
+
+  <a class="phone" href="tel:8336378466">
+    833-637-8466
+  </a>
+</header>
+
+<main>
+
+  <section class="hero">
+    <div class="hero-content">
+
+      <div class="eyebrow">
+        Southeast Michigan General Contractor
+      </div>
+
+      <h1>
+        Built on experience.<br>
+        <span>Focused on results.</span>
+      </h1>
+
+      <p class="intro">
+        Praxis Building Group, LLC brings decades of construction experience
+        to remodeling, renovations, additions, roofing, exterior projects and
+        new construction. One contractor capable of managing every aspect of
+        your project.
+      </p>
+
+      <div class="buttons">
+        <a href="mailto:sales@praxisbg.com" class="btn btn-primary">
+          Request a Consultation
+        </a>
+
+        <a href="tel:8336378466" class="btn btn-secondary">
+          Call 833-637-8466
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="services">
+
+    <div class="services-label">
+      What We Do
+    </div>
+
+    <div class="service-list">
+      <span>Kitchens</span>
+      <span>Bathrooms</span>
+      <span>Basements</span>
+      <span>Whole Home Renovations</span>
+      <span>Additions</span>
+      <span>Roofing</span>
+      <span>Siding</span>
+      <span>Garages</span>
+      <span>General Contracting</span>
+      <span>New Construction</span>
+    </div>
+
+  </section>
+
+</main>
+
+<footer>
+
+  <div>
+    <strong>Praxis Building Group, LLC</strong><br>
+    Highland & Ann Arbor, Michigan
+  </div>
+
+  <div>
+    <a href="tel:8336378466">833-637-8466</a><br>
+    <a href="mailto:sales@praxisbg.com">sales@praxisbg.com</a><br>
+    <a href="mailto:info@praxisbg.com">info@praxisbg.com</a>
+  </div>
+
+</footer>
+
+</body>
+</html>
