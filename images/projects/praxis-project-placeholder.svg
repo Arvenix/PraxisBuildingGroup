@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600" role="img" aria-label="Project Photo placeholder image">
+  <title>Project Photo placeholder image</title>
+  <rect width="900" height="600" fill="#1a2128"/>
+  <g stroke="#2f3a44" stroke-width="1">
+    <line x1="75.0" y1="0" x2="75.0" y2="600"/>
+    <line x1="150.0" y1="0" x2="150.0" y2="600"/>
+    <line x1="225.0" y1="0" x2="225.0" y2="600"/>
+    <line x1="300.0" y1="0" x2="300.0" y2="600"/>
+    <line x1="375.0" y1="0" x2="375.0" y2="600"/>
+    <line x1="450.0" y1="0" x2="450.0" y2="600"/>
+    <line x1="525.0" y1="0" x2="525.0" y2="600"/>
+    <line x1="600.0" y1="0" x2="600.0" y2="600"/>
+    <line x1="675.0" y1="0" x2="675.0" y2="600"/>
+    <line x1="750.0" y1="0" x2="750.0" y2="600"/>
+    <line x1="825.0" y1="0" x2="825.0" y2="600"/>
+    <line x1="0" y1="75.0" x2="900" y2="75.0"/>
+    <line x1="0" y1="150.0" x2="900" y2="150.0"/>
+    <line x1="0" y1="225.0" x2="900" y2="225.0"/>
+    <line x1="0" y1="300.0" x2="900" y2="300.0"/>
+    <line x1="0" y1="375.0" x2="900" y2="375.0"/>
+    <line x1="0" y1="450.0" x2="900" y2="450.0"/>
+    <line x1="0" y1="525.0" x2="900" y2="525.0"/>
+  </g>
+  <rect x="50" y="50" width="800" height="500" fill="none" stroke="#2f3a44" stroke-width="2"/>
+  <rect x="50" y="50" width="81" height="4" fill="#c1954c"/>
+  <text x="90" y="264" font-family="Archivo, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="3.8" fill="#dcb268">PLACEHOLDER IMAGE</text>
+  <text x="90" y="336" font-family="Archivo, Helvetica, Arial, sans-serif" font-size="47" font-weight="700" fill="#ffffff">Project Photo</text>
+  <text x="90" y="408" font-family="Inter, Helvetica, Arial, sans-serif" font-size="19" fill="#8d959d">praxis-project-placeholder.svg</text>
+  <text x="90" y="447" font-family="Inter, Helvetica, Arial, sans-serif" font-size="19" fill="#8d959d">Replace with Praxis project photography &#183; 900 &#215; 600</text>
+</svg>

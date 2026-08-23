@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1000" width="1920" height="1000" role="img" aria-label="Hero Image placeholder image">
+  <title>Hero Image placeholder image</title>
+  <rect width="1920" height="1000" fill="#1a2128"/>
+  <g stroke="#2f3a44" stroke-width="1">
+    <line x1="160.0" y1="0" x2="160.0" y2="1000"/>
+    <line x1="320.0" y1="0" x2="320.0" y2="1000"/>
+    <line x1="480.0" y1="0" x2="480.0" y2="1000"/>
+    <line x1="640.0" y1="0" x2="640.0" y2="1000"/>
+    <line x1="800.0" y1="0" x2="800.0" y2="1000"/>
+    <line x1="960.0" y1="0" x2="960.0" y2="1000"/>
+    <line x1="1120.0" y1="0" x2="1120.0" y2="1000"/>
+    <line x1="1280.0" y1="0" x2="1280.0" y2="1000"/>
+    <line x1="1440.0" y1="0" x2="1440.0" y2="1000"/>
+    <line x1="1600.0" y1="0" x2="1600.0" y2="1000"/>
+    <line x1="1760.0" y1="0" x2="1760.0" y2="1000"/>
+    <line x1="0" y1="160.0" x2="1920" y2="160.0"/>
+    <line x1="0" y1="320.0" x2="1920" y2="320.0"/>
+    <line x1="0" y1="480.0" x2="1920" y2="480.0"/>
+    <line x1="0" y1="640.0" x2="1920" y2="640.0"/>
+    <line x1="0" y1="800.0" x2="1920" y2="800.0"/>
+    <line x1="0" y1="960.0" x2="1920" y2="960.0"/>
+  </g>
+  <rect x="106" y="106" width="1708" height="788" fill="none" stroke="#2f3a44" stroke-width="2"/>
+  <rect x="106" y="106" width="173" height="4" fill="#c1954c"/>
+  <text x="192" y="440" font-family="Archivo, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="8.1" fill="#dcb268">PLACEHOLDER IMAGE</text>
+  <text x="192" y="560" font-family="Archivo, Helvetica, Arial, sans-serif" font-size="100" font-weight="700" fill="#ffffff">Hero Image</text>
+  <text x="192" y="680" font-family="Inter, Helvetica, Arial, sans-serif" font-size="41" fill="#8d959d">praxis-hero-placeholder.svg</text>
+  <text x="192" y="745" font-family="Inter, Helvetica, Arial, sans-serif" font-size="41" fill="#8d959d">Replace with Praxis project photography &#183; 1920 &#215; 1000</text>
+</svg>

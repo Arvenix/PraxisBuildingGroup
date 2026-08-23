@@ -1,0 +1,12 @@
+# robots.txt for praxisbg.com
+# Praxis Building Group, LLC
+
+User-agent: *
+Allow: /
+
+# Nothing on this site needs to be hidden from search engines. If a staging
+# copy is ever deployed, replace the two lines above with:
+#   User-agent: *
+#   Disallow: /
+
+Sitemap: https://praxisbg.com/sitemap.xml

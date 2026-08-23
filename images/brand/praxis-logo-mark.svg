@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Praxis Building Group monogram">
+  <title>Praxis Building Group monogram</title>
+  <!-- Ground: charcoal square so the mark also reads on light backgrounds. -->
+  <rect x="0" y="0" width="64" height="64" rx="2" fill="#1a2128"/>
+  <!-- Bronze frame -->
+  <rect x="2.5" y="2.5" width="59" height="59" rx="1" fill="none" stroke="#c1954c" stroke-width="2"/>
+  <!-- Blocky P monogram, drawn from rectangles so it stays crisp at 16px -->
+  <g fill="#ffffff">
+    <rect x="19" y="14" width="9" height="34"/>
+    <rect x="28" y="14" width="15" height="8"/>
+    <rect x="35" y="22" width="8" height="8"/>
+    <rect x="28" y="30" width="15" height="8"/>
+  </g>
+  <!-- Bronze base rule -->
+  <rect x="19" y="51" width="26" height="3" fill="#dcb268"/>
+</svg>

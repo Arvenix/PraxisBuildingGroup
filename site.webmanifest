@@ -1,0 +1,13 @@
+{
+  "name": "Praxis Building Group, LLC",
+  "short_name": "Praxis",
+  "description": "Southeast Michigan general contractor. Remodeling, renovation, roofing, additions, garages and new construction.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f7f5f1",
+  "theme_color": "#1a2128",
+  "icons": [
+    { "src": "/images/brand/praxis-icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/images/brand/praxis-icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
