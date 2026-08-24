@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Electrical placeholder image">
+  <title>Electrical placeholder image</title>
+  <rect width="800" height="600" fill="#1a2128"/>
+  <g stroke="#2f3a44" stroke-width="1">
+    <line x1="66.7" y1="0" x2="66.7" y2="600"/>
+    <line x1="133.3" y1="0" x2="133.3" y2="600"/>
+    <line x1="200.0" y1="0" x2="200.0" y2="600"/>
+    <line x1="266.7" y1="0" x2="266.7" y2="600"/>
+    <line x1="333.3" y1="0" x2="333.3" y2="600"/>
+    <line x1="400.0" y1="0" x2="400.0" y2="600"/>
+    <line x1="466.7" y1="0" x2="466.7" y2="600"/>
+    <line x1="533.3" y1="0" x2="533.3" y2="600"/>
+    <line x1="600.0" y1="0" x2="600.0" y2="600"/>
+    <line x1="666.7" y1="0" x2="666.7" y2="600"/>
+    <line x1="733.3" y1="0" x2="733.3" y2="600"/>
+    <line x1="0" y1="66.7" x2="800" y2="66.7"/>
+    <line x1="0" y1="133.3" x2="800" y2="133.3"/>
+    <line x1="0" y1="200.0" x2="800" y2="200.0"/>
+    <line x1="0" y1="266.7" x2="800" y2="266.7"/>
+    <line x1="0" y1="333.3" x2="800" y2="333.3"/>
+    <line x1="0" y1="400.0" x2="800" y2="400.0"/>
+    <line x1="0" y1="466.7" x2="800" y2="466.7"/>
+    <line x1="0" y1="533.3" x2="800" y2="533.3"/>
+  </g>
+  <rect x="44" y="44" width="712" height="512" fill="none" stroke="#2f3a44" stroke-width="2"/>
+  <rect x="44" y="44" width="72" height="4" fill="#c1954c"/>
+  <text x="80" y="264" font-family="Archivo, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3.4" fill="#dcb268">PLACEHOLDER IMAGE</text>
+  <text x="80" y="336" font-family="Archivo, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">Electrical</text>
+  <text x="80" y="408" font-family="Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#8d959d">praxis-service-electrical.svg</text>
+  <text x="80" y="447" font-family="Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#8d959d">Replace with Praxis project photography &#183; 800 &#215; 600</text>
+</svg>
